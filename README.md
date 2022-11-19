@@ -3,9 +3,9 @@ Challenge para Greydive
 
 
 ## Paquetes / Librerias utilizadas.
- -React-Router-Dom 
+ - React-Router-Dom 
  Manejo de rutas y creacion de las rutas dinamicas.
- -Tailwind.css
+ - Tailwind.css
  Para estilado en general
- -React-Player
+ - React-Player
  Pequeño paquete para mostrar videos.
