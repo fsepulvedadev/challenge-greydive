@@ -10,7 +10,7 @@ function App() {
   const [casos, setCasos] = useState([]);
 
   useEffect(() => {
-    fetch("./src/assets/db.json")
+    fetch("src/assets/db.json")
       .then((res) => res.json())
       .then((data) => setCasos(data));
   }, []);
